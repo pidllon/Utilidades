@@ -1,0 +1,8 @@
+C:\Users\Alumno\Documents\GitHub\Utilidades\suma_de_horas\suma_de_horas\bin\Debug\suma_de_horas.exe.config
+C:\Users\Alumno\Documents\GitHub\Utilidades\suma_de_horas\suma_de_horas\bin\Debug\suma_de_horas.exe
+C:\Users\Alumno\Documents\GitHub\Utilidades\suma_de_horas\suma_de_horas\bin\Debug\suma_de_horas.pdb
+C:\Users\Alumno\Documents\GitHub\Utilidades\suma_de_horas\suma_de_horas\obj\Debug\suma_de_horas.csproj.AssemblyReference.cache
+C:\Users\Alumno\Documents\GitHub\Utilidades\suma_de_horas\suma_de_horas\obj\Debug\suma_de_horas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Documents\GitHub\Utilidades\suma_de_horas\suma_de_horas\obj\Debug\suma_de_horas.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\GitHub\Utilidades\suma_de_horas\suma_de_horas\obj\Debug\suma_de_horas.exe
+C:\Users\Alumno\Documents\GitHub\Utilidades\suma_de_horas\suma_de_horas\obj\Debug\suma_de_horas.pdb
