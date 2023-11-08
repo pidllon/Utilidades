@@ -6,3 +6,10 @@ C:\Users\Alumno\Documents\GitHub\Utilidades\suma_de_horas\suma_de_horas\obj\Debu
 C:\Users\Alumno\Documents\GitHub\Utilidades\suma_de_horas\suma_de_horas\obj\Debug\suma_de_horas.csproj.CoreCompileInputs.cache
 C:\Users\Alumno\Documents\GitHub\Utilidades\suma_de_horas\suma_de_horas\obj\Debug\suma_de_horas.exe
 C:\Users\Alumno\Documents\GitHub\Utilidades\suma_de_horas\suma_de_horas\obj\Debug\suma_de_horas.pdb
+C:\Users\Iago\OneDrive\Documentos\GitHub\Utilidades\suma_de_horas\suma_de_horas\bin\Debug\suma_de_horas.exe.config
+C:\Users\Iago\OneDrive\Documentos\GitHub\Utilidades\suma_de_horas\suma_de_horas\bin\Debug\suma_de_horas.exe
+C:\Users\Iago\OneDrive\Documentos\GitHub\Utilidades\suma_de_horas\suma_de_horas\bin\Debug\suma_de_horas.pdb
+C:\Users\Iago\OneDrive\Documentos\GitHub\Utilidades\suma_de_horas\suma_de_horas\obj\Debug\suma_de_horas.csproj.AssemblyReference.cache
+C:\Users\Iago\OneDrive\Documentos\GitHub\Utilidades\suma_de_horas\suma_de_horas\obj\Debug\suma_de_horas.csproj.CoreCompileInputs.cache
+C:\Users\Iago\OneDrive\Documentos\GitHub\Utilidades\suma_de_horas\suma_de_horas\obj\Debug\suma_de_horas.exe
+C:\Users\Iago\OneDrive\Documentos\GitHub\Utilidades\suma_de_horas\suma_de_horas\obj\Debug\suma_de_horas.pdb
