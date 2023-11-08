@@ -27,7 +27,7 @@ namespace suma_de_horas
             Console.Clear();
             sumaHoras = partHora1 - partHora;
             sumaMin = partMin1 + (60 - partMin);
-            if(sumaMin >= 60)
+            if(sumaMin > 60)
             {
                 float minR, minH, minH1;
                 minR = sumaMin % 60;
